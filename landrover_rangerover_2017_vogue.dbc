@@ -434,4 +434,4 @@ CM_ SG_ 696 GEAR_SHIFT "PRND # P:0 R:0x09 N:0x12 D:0x1b DS:3B";
 CM_ SG_ 784 LEFT_RIGHT_BLINK "left 0,1 bit, right 0,2";
 CM_ SG_ 980 GREEN2WHITE_RIGHT "3: white 1:green";
 CM_ SG_ 980 GREEN2WHITE_LEFT "1: green 3:white";
-
+VAL_ 696 GEAR_SHIFT 0 "P" 9 "R" 18 "N" 27 "D";
